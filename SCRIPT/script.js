@@ -19,6 +19,6 @@ var num3 = num2 * num2;
 var num4 = num3 / 10000;
 var resultado = num1 / num4;
 console.log("Peso: " + num1 + "Kg");
-console.log("Altura: " + num1 + "cm");
+console.log("Altura: " + num2 + "cm");
 console.log("IMC= " + resultado);
 alert("IMC= " + resultado);
