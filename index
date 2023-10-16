@@ -12,7 +12,7 @@
         <h2>CALCULE SEU IMC!</h2>
     </header>
     <div class="container">
-        <h3>PREENCHA OS DADOS SOLICITADOS</h3>
+        <h3>PARA DESCOBRIR SEU IMC, PREENCHA OS DADOS SOLICITADOS</h3>
         <p>Lorem ipsum...</p>
     </div>
     <script>
