@@ -17,8 +17,9 @@ var num1 = prompt("Insira o seu peso em Kg!");
 var num2 = prompt("Insira a sua altura em centímetros!");
 var num3 = num2 * num2;
 var num4 = num3 / 10000;
+var num5 = num2 / 100
 var resultado = num1 / num4;
 console.log("Peso: " + num1 + "Kg");
-console.log("Altura: " + num2 + "cm");
+console.log("Altura: " + num5 + "m");
 console.log("IMC= " + resultado);
 alert("IMC= " + resultado);
