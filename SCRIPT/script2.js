@@ -18,6 +18,7 @@ console.log(IPI)
 console.log(somaDosImpostos)
 console.log(valorDoProdutoSemICMS)
 console.log(valorDoProdutoSemIPI)
+console.log(valorDoProdutoSemImpostos)
 
 
 alert("Valor do produto com impostos: R$" + precoProduto + ",00")
